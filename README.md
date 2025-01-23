@@ -1,0 +1,1 @@
+This project involves creating a simple webpage containing links to a few recipes. Through this project i will reinforce my knowledge of HTML. First, this project will make use of lists, images and anchor elements to refer to other pages. Second, this project will help create a habbit of writing good git commit messages.
